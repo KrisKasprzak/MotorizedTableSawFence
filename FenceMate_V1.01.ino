@@ -5,7 +5,8 @@
   from an input distance. User has control over fence parallel setting and "zeroing" out the current location
   by entering the current location
 
-  This code is free for anyone and may be used or modified as desired.
+  This code or any portion of it may only be used for personal use. This code or any portion of it may not be included in an application 
+  that is distributed for commercial or educational use.
 
 */
 
